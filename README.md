@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack & Mobile App Developer passionate about building scalable web and mobile applications. I work with the MERN stack, PHP, Python, and Flutter to create modern, high-performance solutions. From designing responsive frontends to developing robust backend systems and cross-platform mobile apps, I enjoy turning ideas into real-world products while continuously learning new technologies and best practices.
+I'm a Full-Stack & Mobile App Developer passionate about building scalable web and mobile applications. I work with the MERN stack, PHP, Python, and Flutter to create modern, high-performance solutions. From designing responsive frontends to developing robust backend systems and cross-platform mobile apps, I enjoy turning ideas into real-world products while continuously learning new technologies and best practices. 
 
 
 ## 🌐 Socials:
